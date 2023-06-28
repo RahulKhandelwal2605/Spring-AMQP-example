@@ -1,4 +1,4 @@
-package com.ghostrick.SpringAMQPexample;
+package com.ghostrick.SpringAMQPexample.simple;
 
 import org.springframework.amqp.core.Queue;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
